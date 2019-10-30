@@ -1,0 +1,10 @@
+E:\C# console apps\Project02\Project02\bin\Debug\Project02.exe.config
+E:\C# console apps\Project02\Project02\bin\Debug\Project02.exe
+E:\C# console apps\Project02\Project02\bin\Debug\Project02.pdb
+E:\C# console apps\Project02\Project02\bin\Debug\Newtonsoft.Json.dll
+E:\C# console apps\Project02\Project02\bin\Debug\Newtonsoft.Json.xml
+E:\C# console apps\Project02\Project02\obj\Debug\Project02.csprojAssemblyReference.cache
+E:\C# console apps\Project02\Project02\obj\Debug\Project02.csproj.CoreCompileInputs.cache
+E:\C# console apps\Project02\Project02\obj\Debug\Project02.csproj.CopyComplete
+E:\C# console apps\Project02\Project02\obj\Debug\Project02.exe
+E:\C# console apps\Project02\Project02\obj\Debug\Project02.pdb
